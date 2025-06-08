@@ -24,7 +24,8 @@ Ensure you have the following installed:
 Install the following libraries before running the project:
 
 - **NumPy**  
-- **Pandas**  
+- **Pandas**
+- **sqlparse**
 - **Scikit-learn**  
 - **Matplotlib**  
 - **Jupyter Notebook**  
@@ -35,6 +36,6 @@ Install the following libraries before running the project:
 You can install them using:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib jupyter
+pip install numpy pandas scikit-learn matplotlib jupyter sqlparse
 ```
 --------
